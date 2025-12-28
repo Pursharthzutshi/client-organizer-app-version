@@ -1,13 +1,13 @@
 {
     "ios": {
-        "version": "1.0.2",
+        "version": "1.0.0",
         "releaseNotes": [
             "iOS specific fix"
         ],
         "critical": false
     },
     "android": {
-        "version": "1.1.0",
+        "version": "1.0.0",
         "releaseNotes": [
             "Android performance update"
         ],
